@@ -57,6 +57,22 @@ On Terminal/Powershell run the following commands to install virtualenv and crea
   ```
 
 - ##### MacOs
+
+  ```
+  pip3 install virtualenv
+  cd PythonFirstWebSite
+  virtualenv venv
+  source venv/bin/activate
+  ```
+
+  ```
+  sudo apt install python3-venv
+  cd PythonFirstWebSite
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+
+- ##### MacOs
   ```
   pip3 install virtualenv
   cd PythonFirstWebSite
