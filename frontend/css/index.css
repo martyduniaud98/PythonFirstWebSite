@@ -1,0 +1,14 @@
+body {
+  background: rgba(215, 208, 180, 0.621);
+}
+
+#page {
+  width: 60%;
+  padding: 2em 5%;
+  background: #fff;
+  margin: 3em auto;
+  border-radius: 15px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
