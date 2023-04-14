@@ -2,7 +2,7 @@
 Simple python web project with mysql, html, css, js, bootstrap
 
 ## Sommary
-1. [Install python3 and other tools](#install-python3-and-other-tools)
+1. [Install python3 and other tools](#install-python3-and-other-tools)<br>
     a. [Windows](#for-windows)<br>
     b. [Ubuntu](#for-ubuntu)<br>
     c. [MacOs](#for-macos)  <br>
@@ -33,7 +33,7 @@ Try `python3 -v` on terminal/powershell to check if python3 is installed on your
 *This step is optional, you can skip if you don't want to use virtualenv.*
 On Terminal/Powershell run the following commands to install virtualenv and create a virtual environment for the project
 
-- Windows
+- ##### Windows
     ```
     pip install virtualenv
     cd PythonFirstWebSite
@@ -41,7 +41,7 @@ On Terminal/Powershell run the following commands to install virtualenv and crea
     env\Scripts\activate
     ```
 
-- Ubuntu
+- ##### Ubuntu
     ```
     sudo apt install python3-venv
     cd PythonFirstWebSite
@@ -49,7 +49,7 @@ On Terminal/Powershell run the following commands to install virtualenv and crea
     source venv/bin/activate
     ```
 
-- MacOs
+- ##### MacOs
     ```
     pip3 install virtualenv
     cd PythonFirstWebSite
