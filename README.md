@@ -2,14 +2,14 @@
 Simple python web project with mysql, html, css, js, bootstrap
 
 ## Sommary
-1. [Installation de python3](#installation-de-python3)
-    a. [Windows](#windows)<br>
-    b. [Ubuntu](#ubuntu)<br>
-    c. [MacOs](#macos)  <br>
-2. [Install virtualenv (optional)](#install-virtualenv-(optional))<br>
-    a. [Windows](#windows)<br>
-    b. [Ubuntu](#ubuntu)<br>
-    c. [MacOs](#macos)<br>
+1. [Installation de python3](#Install-python3-and-other-tools)
+    a. [Windows](#Windows)<br>
+    b. [Ubuntu](#Ubuntu)<br>
+    c. [MacOs](#Macos)  <br>
+2. [Install virtualenv (optional)](#Virtualenv-(optional))<br>
+    a. [Windows](#Windows)<br>
+    b. [Ubuntu](#Ubuntu)<br>
+    c. [MacOs](#MacOs)<br>
 3. [Download Docker image](#download-docker-image)<br>
 
 <br>
