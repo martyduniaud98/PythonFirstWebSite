@@ -3,10 +3,10 @@ Simple python web project with mysql, html, css, js, bootstrap
 
 ## Sommary
 1. [Install python3 and other tools](#install-python3-and-other-tools)
-    a. [Windows](#windows)<br>
-    b. [Ubuntu](#ubuntu)<br>
-    c. [MacOs](#macos)  <br>
-2. [Virtualenv (optional)](#virtualenv-(optional))<br>
+    a. [Windows](#for-windows)<br>
+    b. [Ubuntu](#for-ubuntu)<br>
+    c. [MacOs](#for-macos)  <br>
+2. [Virtualenv (optional)](#virtualenv-optional)<br>
     a. [Windows](#windows)<br>
     b. [Ubuntu](#ubuntu)<br>
     c. [MacOs](#macos)<br>
@@ -18,18 +18,19 @@ Simple python web project with mysql, html, css, js, bootstrap
 
 Try `python3 -v` on terminal/powershell to check if python3 is installed on your system, if installed pass to the next step.
 
-- Windows
+- For Windows
     - https://www.python.org/downloads/windows/
 
-- Ubuntu
+- For Ubuntu
     - `sudo apt install python3`
 
-- MacOs
+- For MacOs
     - `brew install python3`
 
 <br>
 
-### Virtualenv (optional)
+### Virtualenv optional
+*This step is optional, you can skip if you don't want to use virtualenv.*
 On Terminal/Powershell run the following commands to install virtualenv and create a virtual environment for the project
 
 - Windows
