@@ -18,13 +18,13 @@ Simple python web project with mysql, html, css, js, bootstrap
 
 Try `python3 -v` on terminal/powershell to check if python3 is installed on your system, if installed pass to the next step.
 
-- For Windows
+- ##### For Windows
     - https://www.python.org/downloads/windows/
 
-- For Ubuntu
+- ##### For Ubuntu
     - `sudo apt install python3`
 
-- For MacOs
+- ##### For MacOs
     - `brew install python3`
 
 <br>
