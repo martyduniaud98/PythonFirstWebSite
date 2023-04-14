@@ -2,11 +2,11 @@
 Simple python web project with mysql, html, css, js, bootstrap
 
 ## Sommary
-1. [Installation de python3](#Install-python3-and-other-tools)
+1. [Install python3 and other tools](#install-python3-and-other-tools)
     a. [Windows](#Windows)<br>
     b. [Ubuntu](#Ubuntu)<br>
     c. [MacOs](#Macos)  <br>
-2. [Install virtualenv (optional)](#Virtualenv-(optional))<br>
+2. [Install virtualenv (optional)](#virtualenv-(optional))<br>
     a. [Windows](#Windows)<br>
     b. [Ubuntu](#Ubuntu)<br>
     c. [MacOs](#MacOs)<br>
